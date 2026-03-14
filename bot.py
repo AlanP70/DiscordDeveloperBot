@@ -33,6 +33,6 @@ GUILD_ID = discord.Object(id=819404306166841384)
 async def sayHello(interaction: discord.Interaction):
     await interaction.response.send_message("Hi there!")
 
-client.run('MTQ4MjExNTA3Mjc4MzQxNzM4NQ.GIkiuN.dov48jENisC6ynkmkQbAgdHKUTdwqurR8y781Q')
+client.run('')
 
     
